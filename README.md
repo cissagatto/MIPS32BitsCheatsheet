@@ -1,4 +1,4 @@
-# MIPS 32 Bits Cheatsheet
+# MIPS 32 Bits Cheat Sheet
 
 Cheatsheet completinha do MIPS 32 bits - MIPS Technologies
 
