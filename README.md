@@ -10,9 +10,9 @@ Cheatsheet completinha do MIPS 32 bits - MIPS Technologies
 
 <img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg4.jpg" width = "1280">
 
-<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sehet-mips-32-bits-pg5.jpg" width = "1280">
+<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg5.jpg" width = "1280">
 
-<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sehet-mips-32-bits-pg6.jpg" width = "1280">
+<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg6.jpg" width = "1280">
 
 <img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg7.jpg" width = "1280">
 
