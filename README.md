@@ -17,4 +17,3 @@ Cheatsheet completinha do MIPS 32 bits - MIPS Technologies
 <img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg7.jpg" width = "1280">
 
 <img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg8.jpg" width = "1280">
-
