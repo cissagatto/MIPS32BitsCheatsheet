@@ -6,18 +6,4 @@ Neste repositório você também encontrará alguns PDFs com resumos das instru�
 
 Obrigada
 
-<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg1.jpg" width = "1280">
-
-<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg2.jpg" width = "1280">
-
-<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg3.jpg" width = "1280">
-
-<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg4.jpg" width = "1280">
-
-<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg5.jpg" width = "1280">
-
-<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg6.jpg" width = "1280">
-
-<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg7.jpg" width = "1280">
-
-<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat-sheet-mips-32-bits-pg8.jpg" width = "1280">
+<img src="https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat%20sheet%20mips%2032%20bits.pdf" width = "1280">
