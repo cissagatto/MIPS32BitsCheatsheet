@@ -6,6 +6,6 @@ Neste repositório você também encontrará alguns PDFs com resumos das instru�
 
 Obrigada
 
-https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat%20sheet%20mips%2032%20bits.pdf
+CHEAT SEET MIPS: https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/cheat%20sheet%20mips%2032%20bits.pdf
 
-https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/instrucoes-desvio-incondicionais.pdf
+RESUMO INSTRUÇÕES DESVIO: https://github.com/cissagatto/MIPS32BitsCheatsheet/blob/main/instrucoes-desvio-incondicionais.pdf
